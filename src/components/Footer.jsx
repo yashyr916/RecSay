@@ -10,7 +10,7 @@ const Footer = () => {
           © {new Date().getFullYear()}. All rights reserved.
         </p>
         <p className="caption text-n-4 lg:block">
-          contact@recsay.com
+          yash@recsay.com
           
         </p>
         <p className="caption text-n-4 lg:block">
