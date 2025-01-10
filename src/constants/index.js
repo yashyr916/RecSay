@@ -258,7 +258,7 @@ export const benefits = [
   {
     id: "0",
     title: "Enhanced Efficiency",
-    text: "The platform enables recruiters to create a pipeline of candidates for grouped job roles, streamlining the hiring process. This allows recruiters to manage multiple positions more effectively.s quickly find answers to their questions without having to search through multiple sources.",
+    text: "The platform enables recruiters to create a pipeline of candidates for grouped job roles, streamlining the hiring process. This allows recruiters to manage multiple positions more effectively. quickly find answers to their questions without having to search through multiple sources.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
