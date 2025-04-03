@@ -67,10 +67,10 @@ const Header = () => {
           <HamburgerMenu />
         </nav>
 
-        <Button className="hidden lg:flex" href="https://docs.google.com/forms/d/1jbJADiP0AUDZm6b3VwoEez4PgcGNkpr7ACtmKPR-G64/edit?usp=forms_home&ths=true">
+        <Button className="hidden lg:flex" href="https://forms.office.com/r/dSgsWdN5av">
           Recruiters
         </Button>
-        <Button className="hidden lg:flex" href="https://docs.google.com/forms/d/1ZUWiyTr5-VS9_sEJr5zm0Uk80orwagLnzavTgoDnAzQ/edit?usp=forms_home&ths=true">
+        <Button className="hidden lg:flex" href="https://forms.office.com/r/EmwbtFAuDP">
           Employers
         </Button>
 
