@@ -38,7 +38,7 @@ const Hero = () => {
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
           Connecting Talent to Opportunity.
           </p>
-          <Button href="https://docs.google.com/forms/d/1ZUWiyTr5-VS9_sEJr5zm0Uk80orwagLnzavTgoDnAzQ/edit?usp=forms_home&ths=true" white>
+          <Button href="https://forms.office.com/r/EmwbtFAuDP" white>
             Get started
           </Button>
         </div>
