@@ -73,13 +73,13 @@ export const navigation = [
   {
     id: "4",
     title: "Recruiters",
-    url: "https://docs.google.com/forms/d/1jbJADiP0AUDZm6b3VwoEez4PgcGNkpr7ACtmKPR-G64/edit?usp=forms_home&ths=true",
+    url: "https://forms.office.com/r/dSgsWdN5av",
     onlyMobile: true,
   },
   {
     id: "5",
     title: "Employers",
-    url: "https://docs.google.com/forms/d/1ZUWiyTr5-VS9_sEJr5zm0Uk80orwagLnzavTgoDnAzQ/edit?usp=forms_home&ths=true",
+    url: "https://forms.office.com/r/EmwbtFAuDP",
     onlyMobile: true,
   },
 ];
